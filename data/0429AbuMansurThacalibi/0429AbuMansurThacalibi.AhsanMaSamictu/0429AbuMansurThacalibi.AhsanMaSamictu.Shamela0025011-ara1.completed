@@ -21,7 +21,7 @@
 #META# 031.LibURLFILE	:: NODATA
 #META# 031.LibURLextra	:: NODATA
 #META# 040.EdALL	:: NODATA
-#META# 040.EdEDITOR	:: NODATA
+#META# 040.EdEDITOR	:: خليل عمران المنصور
 #META# 041.EdNUMBER	:: الأولى، 1421 هـ - 2000 م
 #META# 041.EdNumber	:: NODATA
 #META# 043.EdPUBLISHER	:: دار الكتب العلمية، بيروت - لبنان
@@ -38,7 +38,8 @@
 
 #META#Header#End#
 # PageV00P000
-### | [أحسن ما سمعت]
+### |EDITOR|
+# [أحسن ما سمعت]
 # المؤلف: عبد الملك بن محمد بن إسماعيل أبو منصور الثعالبي (المتوفى:
 ~~429ه)
 # وضع حواشيه: خليل عمران المنصور
