@@ -21,10 +21,10 @@
 #META# 031.LibURLFILE	:: NODATA
 #META# 031.LibURLextra	:: NODATA
 #META# 040.EdALL	:: NODATA
-#META# 040.EdEDITOR	:: NODATA
+#META# 040.EdEDITOR	:: يوسف عبد الوهاب
 #META# 041.EdNUMBER	:: الأولى، 1416 هـ - 1995 م
 #META# 041.EdNumber	:: NODATA
-#META# 043.EdPUBLISHER	:: دار الصحابة - طنطا
+#META# 043.EdPUBLISHER	:: دار الصحابة للتراث - طنطا
 #META# 044.EdPLACE	:: NODATA
 #META# 045.EdYEAR	:: NODATA
 #META# 049.EdISBN	:: NODATA
@@ -37,6 +37,7 @@
 
 
 #META#Header#End#
+### |EDITOR|
 # PageV00P000
 # بسم الله الرحمن الرحيم
 # الكتاب: درر الحكم لأبي منصور الثعالبي
