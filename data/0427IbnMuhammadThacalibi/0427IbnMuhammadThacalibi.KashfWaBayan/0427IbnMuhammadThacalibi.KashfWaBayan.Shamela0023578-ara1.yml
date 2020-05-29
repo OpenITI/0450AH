@@ -6,11 +6,11 @@
 80#VERS#LINKS####: https://waqfeya.com/book.php?bid=3548
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: All the Quranic verses are omitted in Vol 4 (and I
-    put a second-level header tag to mark their beginning, in conformity
+    put a first-level header tag to mark their beginning, in conformity
     with other volumes). In Vol 8, pages 37-41 and the first paragraph in
-    page 301 are omitted. The first paragraph in vol. 7 page 188 is also
-    omitted. Some very minor inaccuracies in the text like “فأنزلنا” instead
+    page 301 are missing. The first paragraph in vol. 7 page 188 is also
+    missing. Some very minor inaccuracies in the text like “فأنزلنا” instead
     of “فأنزل” in Vol. 1 P. 202 Line 14 and “ويربي” instead of “ویزکی” in
     Vol. 2 P. 383 Line 20.
 90#VERS#DATE#####: 2019-07-26
-90#VERS#ISSUES###: Some missing verses and paragraphs
+90#VERS#ISSUES###: HTML_TAGS, EDITORIAL_SECTIONS, MISSING_PARTS
