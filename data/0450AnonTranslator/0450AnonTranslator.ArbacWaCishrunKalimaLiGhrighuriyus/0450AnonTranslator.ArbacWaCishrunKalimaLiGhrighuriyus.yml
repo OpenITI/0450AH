@@ -1,9 +1,9 @@
 00#BOOK#URI######: 0450AnonTranslator.ArbacWaCishrunKalimaLiGhrighuriyus
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: al-Arbaʿ wa-al-ʿishrūn kalimaŧ li-al-qiddīs
-    Ghrīghūriyus Nīṣaṣ akhī mārī Bāsīliyūs al-kabīr naẓmuhu ʿalá ʿadad ḥurūf
-    alfā bīṭā bi-al-Yūnāniyyaŧ
-10#BOOK#TITLEB#AR: Ghrīghūriyus al-mutakallim ʿalá al-lāhūt
+10#BOOK#TITLEA#AR: al-Arbaʿ wa-al-ʿišrūn kalimaŧ li-al-qiddīs Ġrīġūriyus
+    Nīṣaṣ aḫī mārī Bāsīliyūs al-kabīr naẓmuhu ʿalá ʿadad ḥurūf alfā bīṭā bi-
+    al-Yūnāniyyaŧ
+10#BOOK#TITLEB#AR: Ġrīġūriyus al-mutakallim ʿalá al-lāhūt
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
