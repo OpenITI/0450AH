@@ -1,7 +1,7 @@
 00#BOOK#URI######: 0429AbuMansurThacalibi.LataifWaZaraif
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
 10#BOOK#TITLEA#AR: al-Laṭāʾif wa al-ẓarāʾif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEB#AR: al-Laṭāʾif wa al-ẓarāʾif wa-al-Yawāqīt fī baʿḍ al-mawāqīt
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
@@ -13,7 +13,17 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#BOOK#COMMENT##: This book is the work of a compiler who 
+    combined two books by al-Thaʿālibī 
+    (K. al-Ẓarā'if wa-al-Laṭā'if and K. al-Yawāqīt fī baʿḍ al-mawāqīt)
+    into one work. 
+    Nāṣir Muḥammadī Muḥammad Jād, editor of the 2009 edition, 
+    (https://archive.org/details/zad27/page/n25/mode/2up) 
+    tries to identify this compiler, Abū Naṣr al-Maqdisī,
+    but does not manage to identify him exactly; 
+    he comes to the conclusion he probably died 
+    in the late 5th C AH. 
+    There seems to be no real title for the compound work - 
+    the extant manuscripts have either the title of both 
+    of Thaʿālibī's books, or only K. al-Ẓarā'if wa-al-Laṭā'if 
+    (see the introduction to the same edition).
