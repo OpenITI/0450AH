@@ -1,11 +1,11 @@
 00#VERS#CLENGTH##: 350968
 00#VERS#LENGTH###: 88372
 00#VERS#URI######: 0450Najashi.Rijal.Shia002931-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
+80#VERS#BASED####: http://www.worldcat.org/oclc/784550249
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/784550249
+80#VERS#LINKS####: https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D8%B1%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%B4%D9%8A/
+90#VERS#ANNOTATOR: 
 90#VERS#COMMENT##: the text was tagged before; no proper YML.
+   NOTE OF THE REVIEWER (HRH): Numbers of the biographical tags added. A paragraph in page 334 which was duplicate removed.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
