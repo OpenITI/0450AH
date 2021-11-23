@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 68221
-00#VERS#LENGTH###: 17253
+00#VERS#CLENGTH##: 68125
+00#VERS#LENGTH###: 17231
 00#VERS#URI######: 0450Anonymous.NukatMughni.JMIHE03-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/1183959723
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/1183959723
@@ -23,6 +23,6 @@
     (introduction: pp. 19-27). The pagination of the print version was not
     represented in the xml file; the pagination of the manuscript (ms. Arab
     104) is used instead
-   NOTE OF THE REVIEWER (HRH): Editorial removed.
+    NOTE OF THE REVIEWER (HRH): Editorial removed.
 90#VERS#DATE#####: 2020-09-22
 90#VERS#ISSUES###: PAGINATION, INCOMPLETE_TEXT
