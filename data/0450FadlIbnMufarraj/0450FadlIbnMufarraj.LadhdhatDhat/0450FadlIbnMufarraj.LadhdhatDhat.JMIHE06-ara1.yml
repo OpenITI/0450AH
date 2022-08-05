@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 46843
-00#VERS#LENGTH###: 11346
+00#VERS#CLENGTH##: 46776
+00#VERS#LENGTH###: 11330
 00#VERS#URI######: 0450FadlIbnMufarraj.LadhdhatDhat.JMIHE06-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/1183959723
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/1183959723
@@ -16,6 +16,7 @@
     not represented in the xml file; the pagination of the manuscript
     (National Library of Russia, Firk. Arab. 652)  is used instead. The
     fragments are numbered I-XII, as in the edition.
-   NOTE OF THE REVIEWER (HRH): Editorial removed. A few untagged third-level headers tagged.
+    NOTE OF THE REVIEWER (HRH): Editorial removed. A few untagged third-level
+    headers tagged.
 90#VERS#DATE#####: 2020-09-22
 90#VERS#ISSUES###: PAGINATION, INCOMPLETE_TEXT
