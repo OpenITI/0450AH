@@ -1,11 +1,11 @@
 00#AUTH#URI######: 0443AbuSacidGardizi
-10#AUTH#ISM####AR: Fulān
-10#AUTH#KUNYA##AR: Abū Fulān, Abū Fulānaŧ
-10#AUTH#LAQAB##AR: Fulān al-dīn, Fulān al-dawlaŧ
-10#AUTH#NASAB##AR: b. Fulān b. Fulān b. Fulān b. Fulān
-10#AUTH#NISBA##AR: al-Fulānī, al-Fāʿil, al-Fulānī, al-Mufaʿʿil
-10#AUTH#SHUHRA#AR: Ibn Fulān al-Fulānī
-20#AUTH#BORN#####: URIs from Althurayya, comma separated
+10#AUTH#ISM####AR: ʿAbd al-Ḥayy
+10#AUTH#KUNYA##AR: Abū Saʿīd
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. al-Ḍaḥḥāk b. Maḥmūd
+10#AUTH#NISBA##AR: al-Gardīzī
+10#AUTH#SHUHRA#AR: Gardīzī
+20#AUTH#BORN#####: KARDIZ_691E336N_S
 20#AUTH#DIED#####: URIs from Althurayya, comma separated
 20#AUTH#RESIDED##: URIs from Althurayya, comma separated
 20#AUTH#VISITED##: URIs from Althurayya, comma separated
