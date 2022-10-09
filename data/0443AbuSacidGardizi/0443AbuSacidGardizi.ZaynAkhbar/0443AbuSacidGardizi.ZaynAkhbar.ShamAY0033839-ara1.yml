@@ -1,14 +1,14 @@
 00#VERS#CLENGTH##: 467474
 00#VERS#LENGTH###: 107361
 00#VERS#URI######: 0443AbuSacidGardizi.ZaynAkhbar.ShamAY0033839-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/1158641835
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1158641835
+80#VERS#LINKS####: https://archive.org/details/zin-akhbar
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: This is a modern Arabic translation of the originally Persian text.
+    PV added structural tagging and formatted the tables in markdown format. 
+    A good Worldcat record for the printed text was not found
+    (tr. ʿAfāf al-Sayyid Zaydān, Cairo: al-Majlis al-aʿlā li-al-thaqāfa 2006);
+    the one provided does not mention the year and place of publication.
+90#VERS#DATE#####: 2022-08-05
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, TRANSLATION, EDITORIAL
