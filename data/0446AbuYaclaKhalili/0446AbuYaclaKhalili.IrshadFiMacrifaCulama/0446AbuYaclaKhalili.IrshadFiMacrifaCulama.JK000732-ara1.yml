@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://archive.org/details/130217_201809
 90#VERS#ANNOTATOR: 
 90#VERS#COMMENT##: The text was tagged before; no proper YML file.
-   NOTE OF THE REVIEWER (HRH): PARATEXT added. Untagged headers tagged. Unnecessary tags removed.
+       NOTE OF THE REVIEWER (HRH): PARATEXT added. Untagged headers tagged. Unnecessary tags removed.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

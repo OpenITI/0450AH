@@ -6,10 +6,13 @@
 80#VERS#LINKS####: https://archive.org/details/FP171606/mode/2up
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: This text seemed of a bit better quality than the JK
-    version which does not include the introduction and did not have any
-    pre-tagging. They are however based on different editions and it may be
-    that the JK version is of a higher scholarly quality. Footnote markers
-    are still present.
-    NOTE OF THE REVIEWER (HRH): No changes.
+        version which does not include the introduction and did not have any
+        pre-tagging. They are however based on different editions and it may be
+        that the JK version is of a higher scholarly quality. Footnote markers
+        are still present.
+        NOTE OF THE REVIEWER (HRH): No changes.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-03-12
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

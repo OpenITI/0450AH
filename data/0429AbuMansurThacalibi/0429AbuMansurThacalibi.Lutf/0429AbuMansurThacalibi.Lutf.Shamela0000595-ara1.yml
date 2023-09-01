@@ -6,5 +6,8 @@
 80#VERS#LINKS####: PHYSICAL_OBJECT
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: There is another edition of the text on the internet, but the contents are different: https://ia802606.us.archive.org/35/items/allotf_wa_allataaf/allotf_wa_allataaf.pdf
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-04-22
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

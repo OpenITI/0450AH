@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://archive.org/details/hilyah/hilyah00/mode/1up
 90#VERS#ANNOTATOR: 
 90#VERS#COMMENT##: the text was tagged before; no proper YML file.
-   NOTE OF THE REVIEWER (HRH): Subsections of the biographical sections tagged as  #~:section:. 2- The version used for collation is a reprint with some extra headers.
+       NOTE OF THE REVIEWER (HRH): Subsections of the biographical sections tagged as  #~:section:. 2- The version used for collation is a reprint with some extra headers.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: RANDOM_CHARS
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

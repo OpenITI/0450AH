@@ -3,11 +3,14 @@
 00#VERS#URI######: 0429AbuMansurThacalibi.LubabAdab.JK009320-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770165848
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770165848
-80#VERS#LINKS####:
-    https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D9%84%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D8%AA-%D8%A8%D8%B3%D8%AC/
+80#VERS#LINKS####: 
+        https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D9%84%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A2%D8%AF%D8%A7%D8%A8-%D8%AA-%D8%A8%D8%B3%D8%AC/
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: Pages 19-24 (the author’s introduction) is missing in the
-    digital version. The original text lacks the first Qism, and this is not a
-    problem in our digital version.
+        digital version. The original text lacks the first Qism, and this is not a
+        problem in our digital version.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2022-08-06
-90#VERS#ISSUES###: MISSING_PARTS
+90#VERS#ISSUES###: MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

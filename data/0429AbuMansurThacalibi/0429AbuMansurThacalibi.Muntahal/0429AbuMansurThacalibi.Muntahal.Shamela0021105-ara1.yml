@@ -6,7 +6,10 @@
 80#VERS#LINKS####: https://archive.org/details/2306pdf_201912
 90#VERS#ANNOTATOR: Eric van Lit
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
-    See, `README.md` for details.
-   NOTE OF THE REVIEWER (HRH): No changes in the annotation made. 2- The author’s introduction (pages 5-7) is missing. 3- The structure of the text might become clearer by tagging the names of all the poets whose poems are quoted in each chapter as second-level headers. However, since a lot of poets’ names are mentioned with just one or two lines of poetry, and besides, many of the poems are for unknown poets, this idea does not make much sense to me. A specialist who read the text carefully might decide differently about this.
+        See, `README.md` for details.
+       NOTE OF THE REVIEWER (HRH): No changes in the annotation made. 2- The author’s introduction (pages 5-7) is missing. 3- The structure of the text might become clearer by tagging the names of all the poets whose poems are quoted in each chapter as second-level headers. However, since a lot of poets’ names are mentioned with just one or two lines of poetry, and besides, many of the poems are for unknown poets, this idea does not make much sense to me. A specialist who read the text carefully might decide differently about this.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: MISSING_PARTS
+90#VERS#ISSUES###: MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

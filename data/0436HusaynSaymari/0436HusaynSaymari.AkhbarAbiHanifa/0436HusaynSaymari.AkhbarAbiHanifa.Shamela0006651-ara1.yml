@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://waqfeya.com/book.php?bid=5420
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: At the beginning of the book (the first-level blank header) the title “أخبار أبي حنيفة” needs to be added.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-04-25
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

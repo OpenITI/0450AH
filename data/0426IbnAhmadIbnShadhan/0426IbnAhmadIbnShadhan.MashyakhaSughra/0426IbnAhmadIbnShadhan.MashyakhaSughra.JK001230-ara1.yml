@@ -6,7 +6,10 @@
 80#VERS#LINKS####: https://k-tb.com/book/hadeeth7787-مشيخة-ابن-شاذان-الصغرى
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: 1- The pipe symbols (|) inside the text signify the
-    end of the lines in the PDF and must be deleted. 2- Line 58 (right after
-    page 15) is redundant.
+        end of the lines in the PDF and must be deleted. 2- Line 58 (right after
+        page 15) is redundant.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-03-06
-90#VERS#ISSUES###: RANDOM_CHARS, REDUNDANT_PARTS
+90#VERS#ISSUES###: RANDOM_CHARS, REDUNDANT_PARTS, PRIMARY_VERSION, CLEANED_VERSION

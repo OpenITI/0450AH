@@ -6,7 +6,10 @@
 80#VERS#LINKS####: https://archive.org/details/20191016_20191016_1323
 90#VERS#ANNOTATOR: Eric van Lit
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
-    See, `README.md` for details.
-   NOTE OF THE REVIEWER (HRH): Page 3-6 (the author’s introduction) is missing. 2- Major changes in levelling of the headers made. 3- PARATEXT added.
+        See, `README.md` for details.
+       NOTE OF THE REVIEWER (HRH): Page 3-6 (the author’s introduction) is missing. 2- Major changes in levelling of the headers made. 3- PARATEXT added.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: MISSING_PARTS, HTML_TAGS
+90#VERS#ISSUES###: MISSING_PARTS, HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION
