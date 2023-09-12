@@ -6,9 +6,11 @@
 80#VERS#LINKS####: https://archive.org/details/Do-tarikhAlma3Elnahwen
 90#VERS#ANNOTATOR: 
 90#VERS#COMMENT##: the text was tagged before; no proper YML file.
-       NOTE OF THE REVIEWER (HRH): The version used for collation is a reprint.
+    NOTE OF THE REVIEWER (HRH): The version used for collation is a reprint.
     All paratextual elements
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0450AH/pre-clean/data/0442Tanukhi/0442Tanukhi.TarikhCulamaNahwiyyin/0442Tanukhi.TarikhCulamaNahwiyyin.Shamela0001386-ara1.mARkdown
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

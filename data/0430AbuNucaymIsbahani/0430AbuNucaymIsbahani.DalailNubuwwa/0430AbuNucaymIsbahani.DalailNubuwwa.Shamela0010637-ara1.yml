@@ -8,5 +8,7 @@
 90#VERS#COMMENT##: All paratextual elements
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0450AH/pre-clean/data/0430AbuNucaymIsbahani/0430AbuNucaymIsbahani.DalailNubuwwa/0430AbuNucaymIsbahani.DalailNubuwwa.Shamela0010637-ara1.completed
 90#VERS#DATE#####: 2021-06-16
 90#VERS#ISSUES###: PAGINATION, HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION
