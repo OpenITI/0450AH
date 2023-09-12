@@ -1,6 +1,6 @@
 00#VERS#CLENGTH##: 1809410
 00#VERS#LENGTH###: 442858
-00#VERS#URI######: 0428IbnSina.Mantiq.JK010704-ara1
+00#VERS#URI######: 0428IbnSina.ShifaMantiq.JK010704-ara1
 80#VERS#BASED####: NO_DATA_IN_METADATA
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/956954343
 80#VERS#LINKS####: http://alfeker.net/library.php?id=3727
@@ -15,6 +15,8 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0450AH/pre-clean/data/0428IbnSina/0428IbnSina.Mantiq/0428IbnSina.Mantiq.JK010704-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0450AH/pre-
+    clean/data/0428IbnSina/0428IbnSina.Mantiq/0428IbnSina.Mantiq.JK010704-ara1.completed
 90#VERS#DATE#####: 2020-03-08
-90#VERS#ISSUES###: MISSING_PARTS, REDUNDANT_PARTS, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: MISSING_PARTS, REDUNDANT_PARTS, PRIMARY_VERSION,
+    CLEANED_VERSION
