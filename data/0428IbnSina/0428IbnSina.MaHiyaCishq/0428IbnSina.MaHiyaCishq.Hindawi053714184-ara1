@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "0428IbnSina.MaHiyaCishq.Hindawi53714184",
-    "BookCats": "philosophy",
-    "BookID": "53714184",
-    "BookTitle": "رسالة في ماهية العشق",
-    "AuthorID": "40974719",
-    "AuthorNam": "ابن سينا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 0428IbnSina.MaHiyaCishq.Hindawi53714184
+#META# Tags: philosophy
+#META# ID: 53714184
+#META# Title: رسالة في ماهية العشق
+#META# AuthorID: 40974719
+#META# Author: ابن سينا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

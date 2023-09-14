@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "0428IbnSina.MacrifatNafsNatiq.Hindawi18403864",
-    "BookCats": "philosophy",
-    "BookID": "18403864",
-    "BookTitle": "رسالة في معرفة النفس الناطقة وأحوالها",
-    "AuthorID": "40974719",
-    "AuthorNam": "ابن سينا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 0428IbnSina.MacrifatNafsNatiq.Hindawi18403864
+#META# Tags: philosophy
+#META# ID: 18403864
+#META# Title: رسالة في معرفة النفس الناطقة وأحوالها
+#META# AuthorID: 40974719
+#META# Author: ابن سينا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 
