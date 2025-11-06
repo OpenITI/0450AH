@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: XXXX-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q563574
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abū Saʿīd ʿAbd al-Ḥayy b. al-Ḍaḥḥāk b. Maḥmūd , Persian historian who flourished in the middle of the 5th/11th century. Nothing is known of his life.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_2423

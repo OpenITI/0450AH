@@ -1,6 +1,6 @@
 00#AUTH#URI######: 0450Najashi
 10#AUTH#ISM####AR: Aḥmad
-10#AUTH#KUNYA##AR: Abū al-ʿAbbās 
+10#AUTH#KUNYA##AR: Abū al-ʿAbbās
 10#AUTH#LAQAB##AR: 
 10#AUTH#NASAB##AR: b. ʿAlī b. Aḥmad b. ʿAbbās
 10#AUTH#NISBA##AR: al-Asadī al-Kūfī
@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0450-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q5961685
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: No EI2 entry.

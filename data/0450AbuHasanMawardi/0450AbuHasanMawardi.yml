@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0450-RA1-30
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q335635
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abu ’l-Ḥasan ʿAlī b. Muḥammad b. Ḥabīb , S̲h̲āfiʿi faḳīh , was born in Baṣra in 364/974 and died in Bag̲h̲dād on 30 Rabīʿ I 450/27 May 1058, aged 86 years.": http://dx.doi.org/10.1163/1573-3912_islam_COM_0713
