@@ -1,4 +1,3 @@
-
 # Please, answer the following questions about the text that you work on
 
 [[Last update: August 15, 2016]]
