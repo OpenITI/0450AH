@@ -16,4 +16,6 @@
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 70#AUTH#EXTID####: wikidata@Q8011
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: EI2: "Abu ʿAlī al-Ḥusayn b. ʿAbd Allāh b. Sīnā , known in the West as Avicenna": http://dx.doi.org/10.1163/1573-3912_islam_COM_0342
+90#AUTH#COMMENT##: EI2: "Abu ʿAlī al-Ḥusayn b. ʿAbd Allāh b. Sīnā, 
+    known in the West as Avicenna": 
+    http://dx.doi.org/10.1163/1573-3912_islam_COM_0342
